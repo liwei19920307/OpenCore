@@ -370,15 +370,15 @@
 		<array>
 			<dict>
 				<key>Base</key>
-				<string></string>
+				<string>__ZN8AppleRTC14updateChecksumEv</string>
 				<key>Comment</key>
-				<string>F1 Patch</string>
+				<string>Disable RTC checksum update on poweroff</string>
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>dTMPtw==</data>
+				<data></data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleRTC</string>
 				<key>Limit</key>
@@ -390,7 +390,7 @@
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>6zMPtw==</data>
+				<data>ww==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
