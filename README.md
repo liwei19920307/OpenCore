@@ -2,7 +2,7 @@
 ## 配置：
 * CPU 英特尔（Intel）酷睿四核 i7-6700k 1151接口 盒装CPU处理器
 * 主板 华硕（ASUS）Z170-A 主板
-* 内存 美商海盗船(USCORSAIR)复仇者LPX DDR4 3200 16GB(8Gx4条)台式机内存 CL16
+* 内存 美商海盗船(USCORSAIR)复仇者LPX DDR4 3200 32GB(8Gx4条)台式机内存 CL16
 * 散热 猫头鹰（NOCTUA）NH-D15
 * 风扇 乔思伯（JONSBO）Eclipse日食-炫光红 x 4 + GELID 主板风扇4Pin一分三转接线 x 1
 * 电源 安钛克(Antec)HCG750金牌全模组 台式机电脑主机机箱电源750W（全日系电容/14cm短机身/智能温控/10年换新）
